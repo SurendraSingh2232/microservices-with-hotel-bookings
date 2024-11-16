@@ -21,6 +21,7 @@ public class HotelServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(HotelServiceApplication.class, args);
 		//Swagger URL = http://localhost:8082/swagger-ui/index.html
+		//Swagger URL = http://localhost:8082/swagger-ui/index.html
 
 		// Booking Payload
 		/*
